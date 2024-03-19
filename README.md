@@ -55,6 +55,7 @@ print("The most likely sequence of Weather States is",most_likely_sequence)
 
 ## Output:
 i.) Probability of observed sequence:
+
 ![101](https://github.com/arunkumarsukdevchavan/Ex-4--AAI/assets/118343978/d8bfe895-a083-4690-bf31-435db7a0f547)
 
 ii.) Weather sequence:
